@@ -1,0 +1,3 @@
+<?php
+
+CarFactory::getCar('citadine');
